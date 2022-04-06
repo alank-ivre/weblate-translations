@@ -1,7 +1,7 @@
 {
   "key": "value",
   "keyDeep": {
-    "inner": "value"
+    "inner": "test ssh"
   },
   "keyNesting": "reuse $t(keyDeep.inner)",
   "keyInterpolate": "replace this {{value}}",
