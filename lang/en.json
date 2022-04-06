@@ -1,6 +1,8 @@
 {
-	"navigation": {
-		"log_out": "Log Out",
-		"dark_mode": "Dark Mode"
+	"en": {
+		"navigation": {
+			"log_out": "Log Out",
+			"dark_mode": "Dark Mode"
+		}
 	}
 }
