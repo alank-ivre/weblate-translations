@@ -1,5 +1,5 @@
 {
-  "key": "value",
+  "key": "value change Test",
   "keyDeep": {
     "inner": "test ssh"
   },
@@ -18,5 +18,6 @@
   "keyPluralMultipleEgArabic_4": "the plural form 4",
   "keyPluralMultipleEgArabic_5": "the plural form 5",
   "keyWithArrayValue": ["multipe", "things"],
-  "keyWithObjectValue": { "valueA": "return this with valueB", "valueB": "more text" }
+  "keyWithObjectValue": { "valueA": "return this with valueB", "valueB": "more text" },
+  "newKey": "Test new key"
 }
