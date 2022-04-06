@@ -1,0 +1,22 @@
+{
+    "key": "",
+    "keyDeep": {
+        "inner": ""
+    },
+    "keyNesting": "",
+    "keyInterpolate": "",
+    "keyInterpolateUnescaped": "",
+    "keyInterpolateWithFormatting": "",
+    "keyContext_male": "",
+    "keyContext_female": "",
+    "keyPluralSimple": "",
+    "keyPluralMultipleEgArabic": "",
+    "keyWithArrayValue": [
+        "",
+        ""
+    ],
+    "keyWithObjectValue": {
+        "valueA": "",
+        "valueB": ""
+    }
+}
