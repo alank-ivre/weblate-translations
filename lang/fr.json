@@ -1,0 +1,28 @@
+{
+    "key": "",
+    "keyDeep": {
+        "inner": ""
+    },
+    "keyNesting": "",
+    "keyInterpolate": "",
+    "keyInterpolateUnescaped": "",
+    "keyInterpolateWithFormatting": "",
+    "keyContext_male": "",
+    "keyContext_female": "",
+    "keyPluralSimple": "",
+    "keyPluralSimple_plural": "",
+    "keyPluralMultipleEgArabic_0": "",
+    "keyPluralMultipleEgArabic_1": "",
+    "keyPluralMultipleEgArabic_2": "",
+    "keyPluralMultipleEgArabic_3": "",
+    "keyPluralMultipleEgArabic_4": "",
+    "keyPluralMultipleEgArabic_5": "",
+    "keyWithArrayValue": [
+        "",
+        ""
+    ],
+    "keyWithObjectValue": {
+        "valueA": "",
+        "valueB": ""
+    }
+}
